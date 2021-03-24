@@ -1,0 +1,153 @@
+{
+  "about": {
+    "description": [
+      "I am an experienced front-end engineer based in Lexington, KY. I enjoy designing interfaces, building websites, and developing web applications.",
+      "While I specialize in front-end development, I’m interested in doing more full stack development with either PHP or JavaScript frameworks.",
+      "These are just a few technologies I’ve worked with:"
+    ],
+    "skills": [
+      "PHP",
+      "React",
+      "JavaScript",
+      "Node.js",
+      "Drupal",
+      "HTML + CSS",
+      "WordPress",
+      "Figma"
+    ]
+  },
+  "experience": {
+    "positions": [
+      {
+        "position": {
+          "title": "Content Management Programmer",
+          "company": "UK HealthCare",
+          "startDate": "July 2020",
+          "endDate": "Present",
+          "responsibilities": [
+            "Building WordPress themes and plugins for clinical websites.",
+            "Helping create UI/UX standards for React applications.",
+            "Providing technical support for our websites, SharePoint sites, and applications."
+          ],
+          "externalLink": {
+            "text": "Visit UK HealthCare's website",
+            "url": "https://ukhealthcare.uky.edu/"
+          }
+        }
+      },
+      {
+        "position": {
+          "title": "Drupal Developer",
+          "company": "University of Kentucky",
+          "startDate": "September 2019",
+          "endDate": "July 2020",
+          "responsibilities": [
+            "Responsible for designing, building, and managing the College of Engineering's primary, departmental and lab Drupal websites.",
+            "I also help support faculty and staff with any web requests."
+          ],
+          "externalLink": {
+            "text": "Visit the College of Engineering's website",
+            "url": "https://www.engr.uky.edu"
+          }
+        }
+      },
+      {
+        "position": {
+          "title": "Web & Application Developer",
+          "company": "University of Kentucky",
+          "startDate": "March 2017",
+          "endDate": "August 2019",
+          "responsibilities": [
+            "I was responsible for Drupal site management, theming, and module development for the College of Arts & Sciences website.",
+            "I developed JavaScript applications for use within the College (mainly React + Node.js applications but also a couple Meteor.js projects).",
+            "In addition to my development responsibilities, I also helped College faculty and staff with website support tickets."
+          ],
+          "externalLink": {
+            "text": "Visit the College of Arts & Science's website",
+            "url": "https://www.as.uky.edu"
+          }
+        }
+      },
+      {
+        "position": {
+          "title": "Front-End Developer",
+          "company": "Suran Systems, Inc.",
+          "startDate": "August 2015",
+          "endDate": "March 2017",
+          "responsibilities": [
+            "I built the front-end user interface for an online directory and giving application for churches and non-profits using Ember.js.",
+            "I helped migrate marketing sites from Drupal 6 to Drupal 8 and built a customized child theme for the new Drupal 8 site."
+          ],
+          "externalLink": {
+            "text": "Visit Suran System's website",
+            "url": "https://www.suran.com/"
+          }
+        }
+      }
+    ]
+  },
+  "featuredProjects": {
+    "projects": [
+      {
+        "project": {
+          "title": "Campaign Monitor",
+          "description": "Viverra eget amet, vulputate nisi, et magna. Integer massa pharetra parturient elementum. Vitae libero, imperdiet mattis pretium penatibus velit elit volutpat blandit. Vulputate viverra consequat nibh pharetra. Velit nullam mauris pharetra nisl pulvinar aliquet arcu turpis lobortis.",
+          "projectLink": "https://www.google.com",
+          "tools": ["HTML", "CSS"]
+        }
+      },
+      {
+        "project": {
+          "title": "UK Athletics Schedule",
+          "description": "Viverra eget amet, vulputate nisi, et magna. Integer massa pharetra parturient elementum. Vitae libero, imperdiet mattis pretium penatibus velit elit volutpat blandit. Vulputate viverra consequat nibh pharetra. Velit nullam mauris pharetra nisl pulvinar aliquet arcu turpis lobortis.",
+          "projectLink": "https://www.google.com",
+          "tools": ["Node.js", "React", "HTML", "CSS"]
+        }
+      },
+      {
+        "project": {
+          "title": "Triage",
+          "description": "Viverra eget amet, vulputate nisi, et magna. Integer massa pharetra parturient elementum. Vitae libero, imperdiet mattis pretium penatibus velit elit volutpat blandit. Vulputate viverra consequat nibh pharetra. Velit nullam mauris pharetra nisl pulvinar aliquet arcu turpis lobortis.",
+          "projectLink": "https://www.google.com",
+          "tools": ["Meteor.js", "Bootstrap"]
+        }
+      }
+    ]
+  },
+  "otherProjects": {
+    "projects": [
+      {
+        "project": {
+          "title": "Just Food WordPress Theme",
+          "description": "Viverra eget amet, vulputate nisi, et magna. Integer massa pharetra parturient elementum. Viverra eget amet, vulputate nisi, et magna.",
+          "projectLink": "https://www.google.com",
+          "tools": ["WordPress", "PHP", "CSS"]
+        }
+      },
+      {
+        "project": {
+          "title": "Campaign Monitor Templates",
+          "description": "Viverra eget amet, vulputate nisi, et magna. Integer massa pharetra parturient elementum. Viverra eget amet, vulputate nisi, et magna.",
+          "projectLink": "https://www.google.com",
+          "tools": ["Drupal", "JavaScript", "HTML", "CSS"]
+        }
+      },
+      {
+        "project": {
+          "title": "College of Arts & Sciences Wall of Fame",
+          "description": "Viverra eget amet, vulputate nisi, et magna. Integer massa pharetra parturient elementum. Viverra eget amet, vulputate nisi, et magna.",
+          "projectLink": "https://www.google.com",
+          "tools": ["Drupal", "JavaScript", "HTML", "CSS"]
+        }
+      },
+      {
+        "project": {
+          "title": "A&S Voices",
+          "description": "Viverra eget amet, vulputate nisi, et magna. Integer massa pharetra parturient elementum. Viverra eget amet, vulputate nisi, et magna.",
+          "projectLink": "https://www.google.com",
+          "tools": ["Intuiface"]
+        }
+      }
+    ]
+  }
+}
