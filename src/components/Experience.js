@@ -10,7 +10,7 @@ function Experience(props) {
       <SectionHeading heading={props.heading} />
       <div>
         {props.positions.map((position) => (
-          <div className="pb-4 mb-4 border-b border-green border-opacity-25 last:border-0">
+          <div className="pb-4 mb-4 border-b border-green border-opacity-25 last:border-0 last:p-0 last:m-0">
             <h3 className="mb-1 font-display font-bold">{position.title}</h3>
             <h4 className="mb-1 font-display font-bold text-green text-sm">
               {position.employer}
@@ -28,8 +28,8 @@ function Experience(props) {
             </div>
             <p className="text-xs tracking-wide font-bold">
               <a href={position.externalLink.url} className="inline-flex">
-                <span>{position.externalLink.text}</span>{" "}
-                <ArrowRightIcon className="h-4 w-4 text-green text-xs" />
+                <span>{position.externalLink.text}</span>
+                <ArrowRightIcon className="h-4 w-3 text-green text-xs ml-1" />
               </a>
             </p>
           </div>
