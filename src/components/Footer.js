@@ -6,6 +6,7 @@ function Footer() {
         <a
           href="https://www.figma.com/"
           target="_blank"
+          rel="noreferrer"
           className="text-green font-bold"
         >
           Figma
@@ -14,6 +15,7 @@ function Footer() {
         <a
           href="https://reactjs.org/"
           target="_blank"
+          rel="noreferrer"
           className="text-green font-bold"
         >
           React.js
@@ -22,6 +24,7 @@ function Footer() {
         <a
           href="https://tailwindcss.com/"
           target="_blank"
+          rel="noreferrer"
           className="text-green font-bold"
         >
           Tailwind CSS
@@ -30,6 +33,7 @@ function Footer() {
         <a
           href="https://www.netlify.com/"
           target="_blank"
+          rel="noreferrer"
           className="text-green font-bold"
         >
           Netlify
