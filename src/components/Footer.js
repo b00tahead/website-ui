@@ -3,19 +3,35 @@ function Footer() {
     <footer className="pt-24 font-display">
       <p className="text-xs leading-5 tracking-wide">
         Designed in{" "}
-        <a href="#" target="_blank" className="text-green font-bold">
+        <a
+          href="https://www.figma.com/"
+          target="_blank"
+          className="text-green font-bold"
+        >
           Figma
         </a>
         . Built with{" "}
-        <a href="#" target="_blank" className="text-green font-bold">
+        <a
+          href="https://reactjs.org/"
+          target="_blank"
+          className="text-green font-bold"
+        >
           React.js
         </a>{" "}
         and{" "}
-        <a href="#" target="_blank" className="text-green font-bold">
+        <a
+          href="https://tailwindcss.com/"
+          target="_blank"
+          className="text-green font-bold"
+        >
           Tailwind CSS
         </a>
         . Hosted on{" "}
-        <a href="#" target="_blank" className="text-green font-bold">
+        <a
+          href="https://www.netlify.com/"
+          target="_blank"
+          className="text-green font-bold"
+        >
           Netlify
         </a>
         .
