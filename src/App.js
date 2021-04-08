@@ -2,6 +2,8 @@ import Data from "./data";
 // import Section from "./components/Section.js";
 import About from "./components/About";
 import Experience from "./components/Experience";
+import Contact from "./components/Contact";
+import Footer from "./components/Footer";
 
 function App() {
   const sectionSpacing = "py-24";
@@ -24,6 +26,8 @@ function App() {
         heading="Experience"
         positions={Data.experience.positions}
       />
+      <Contact spacing={sectionSpacing} />
+      <Footer />
     </div>
   );
 }
