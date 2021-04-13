@@ -19,12 +19,15 @@ function Experience(props) {
               {position.startDate} - {position.endDate}
             </p>
             <div className="mb-4">
-              {position.responsibilities.map((responsibility) => (
-                <div className="grid grid-cols-8 text-xs text-gray tracking-wide mb-2">
-                  <CodeIcon className="text-green h-4 mr-2" />
-                  <span className="col-span-7">{responsibility}</span>
-                </div>
-              ))}
+              <ul className="list-outside list-disc pl-5">
+                {position.responsibilities.map((responsibility) => (
+                  <li className="mb-1 leading-5 text-green">
+                    <span className="text-xs text-gray tracking-wide">
+                      {responsibility}
+                    </span>
+                  </li>
+                ))}
+              </ul>
             </div>
             <p className="text-xs tracking-wide font-bold">
               <a href={position.externalLink.url} className="inline-flex">
