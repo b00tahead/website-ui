@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="pt-24 font-display">
+    <footer className="pt-20 font-display">
       <p className="text-xs leading-5 tracking-wide">
         Designed in{" "}
         <a
